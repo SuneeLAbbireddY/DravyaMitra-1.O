@@ -1,27 +1,33 @@
-# 🧪 DravyaMitra 1.0 – Concrete Mix Design Software
+# 🧪 DravyaMitra 1.0 – Concrete Mix Design Calculator
 
-> A smart and interactive GUI application to perform advanced **Concrete Mix Design** as per **IS 10262:2009** and **IS 456:2000**.  
-> Supports fly ash mix, water/cement ratio adjustments, aggregate proportioning, cost estimation, unit switching (metric/imperial), and ML-based strength prediction.
-
----
-
-## 🛠 Features
-
-- 🇮🇳 Based on IS 456:2000 and IS 10262:2009
-- 🧪 Cement, water, admixtures, aggregates, fly ash inputs
-- 📈 Strength Prediction using a Machine Learning model
-- 📊 Visualizations: Slump vs Strength, correlation heatmaps
-- 🧾 Export mix design as PDF and Excel
-- 💰 Built-in cost calculator
-- 🔁 Unit switching: Metric ↔ Imperial
-- 💾 Mix design history & comparison
-- 📚 Easy-to-use tkinter GUI
+A full-featured GUI tool for concrete mix design and strength prediction based on **IS 10262:2009** and **IS 456:2000** standards.
 
 ---
 
-## 📦 Requirements
+## 🚀 Features
 
-Install dependencies using pip:
+- Concrete mix design as per Indian Standards
+- Support for fly ash and admixtures
+- ML-based strength prediction
+- Batch mix, cost, and temperature calculators
+- Mix history and comparison
+- Unit system: Metric / Imperial
+- Export to PDF and Excel
+- Easy GUI with tkinter
 
-```bash
-pip install pandas matplotlib reportlab seaborn joblib scikit-learn
+---
+
+## 📦 Installation
+
+### For Users
+
+1. Download the ZIP or EXE release (if provided).
+2. Extract the ZIP file.
+3. Run the `DravyaMitra 1.O.py` (or executable if available).
+
+### For Developers
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/dravya-mitra.git
+   cd dravya-mitra
