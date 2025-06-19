@@ -4,7 +4,7 @@ A full-featured GUI tool for concrete mix design and strength prediction based o
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 
 - Concrete mix design as per Indian Standards
 - Support for fly ash and admixtures
